@@ -1,0 +1,16 @@
+
+
+
+h1.Logo
+{
+    height: 100px;
+	background-image: url('../images/movie-reviw2.png');
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 150px 150px;
+	
+	padding-left: 125px;
+	
+	
+	
+}
